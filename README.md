@@ -16,6 +16,7 @@
 - Me encanta aprender mediante proyectos reales y mejorar cada día.  
 
 ---
+
 <br> 
 
 ## 🎯 Objetivos actuales
@@ -94,6 +95,7 @@
 </table>
 
 ---
+
 <br> 
 
 ## 🖥️ Sistemas operativos
@@ -151,7 +153,7 @@
 <table align="center">
   <tr>
     <td align="center" width="150">
-      Actualmente no existe<br>
+      <img src="https://netbeans.apache.org/_/images/apache-netbeans.svg" width="60" alt="NetBeans logo"/><br>
       <b>NetBeans</b>
     </td>
     <td align="center" width="150">
@@ -196,9 +198,8 @@
 
 ---
 
-
 ## 📫 Contacto
 
 📧 **Email:** [alfonsodiaz003@gmail.com](mailto:alfonsodiaz003@gmail.com)  
-🧑‍💻 **GitHub:** https://github.com/Diaz003  
+🧑‍💻 **GitHub:** [https://github.com/Diaz003](https://github.com/Diaz003)  
 📍 **El Puerto de Santa María, Cádiz**
