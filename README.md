@@ -196,28 +196,6 @@
 
 ---
 
-</br>
-
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Diaz003&show_icons=true&theme=dracula" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diaz003&layout=compact&theme=dracula" height="150" />
-</p>
-
----
-<br> 
-
-
-## 🐍 Snake de contribuciones (al final)
-
-<p align="center">
-  <img src="https://github.com/Diaz003/Diaz003/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<br> 
 
 ## 📫 Contacto
 
