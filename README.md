@@ -53,23 +53,23 @@
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=html" width="60"/><br>
+      <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML icon"/><br>
       <b>HTML</b><br>Intermedio
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=css" width="60"/><br>
+      <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS icon"/><br>
       <b>CSS</b><br>Intermedio
     </td>
     <td align="center" width="150">
-      Actualmente no existe<br>
+      <img src="https://imgs.search.brave.com/2VHsDhpNmsgMmoqYeOBWCt_OhiORkXoZl3ZlktAqaNw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8xNzcwNC8xNzcw/NDEzOC5wbmc_c2Vt/dD1haXNfd2hpdGVf/bGFiZWw" width="60" alt="JSON icon"/><br>
       <b>JSON</b><br>Alto
     </td>
     <td align="center" width="150">
-      Actualmente no existe<br>
+      <img src="https://imgs.search.brave.com/iCkBH-YUdFObddWGIT87BnXAvtHxWpo1ZlN9XgQ-1yE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZy/ZWVwaWsuY29tLzI1/Ni8xNDc1MC8xNDc1/MDk1MC5wbmc_c2Vt/dD1haXNfd2hpdGVf/bGFiZWw" width="60" alt="XML icon"/><br>
       <b>XML</b><br>Alto
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="60"/><br>
+      <img src="https://skillicons.dev/icons?i=wordpress" width="60" alt="WordPress icon"/><br>
       <b>WordPress</b><br>Alto
     </td>
   </tr>
@@ -157,23 +157,24 @@
       <b>NetBeans</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=vscode" width="60"/><br>
+      <img src="https://skillicons.dev/icons?i=vscode" width="60" alt="VS Code logo"/><br>
       <b>VS Code</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=eclipse" width="60"/><br>
+      <img src="https://skillicons.dev/icons?i=eclipse" width="60" alt="Eclipse logo"/><br>
       <b>Eclipse</b>
     </td>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=visualstudio" width="60"/><br>
+      <img src="https://skillicons.dev/icons?i=visualstudio" width="60" alt="Visual Studio logo"/><br>
       <b>Visual Studio</b>
     </td>
     <td align="center" width="150">
-      Actualmente no existe<br>
+      <img src="https://imgs.search.brave.com/zGeeLQEqWof1K24bW46RZVLK8EldxHr_xihhxHz6tLQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/aWNvbnMxMDEuY29t/L2ljb25zLzk3L05v/dGVwYWRfYnlfbW9y/Zml5Yy8xMjgvTm90/ZXBhZCsrMS5wbmc" width="60" alt="Notepad++ logo"/><br>
       <b>Notepad++</b>
     </td>
   </tr>
 </table>
+
 
 </br>
 
@@ -182,19 +183,20 @@
 <table align="center">
   <tr>
     <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=notion" width="60"/><br>
+      <img src="https://skillicons.dev/icons?i=notion" width="60" alt="Notion logo"/><br>
       <b>Notion</b>
     </td>
     <td align="center" width="150">
-      Actualmente no existe<br>
+      <img src="https://imgs.search.brave.com/TuuCzfmeM7YGK7bHYBVtzf91-gmj-yBhnKsXdq33NTI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4t/aWNvbnMtcG5nLmZs/YXRpY29uLmNvbS81/MTIvMTc0LzE3NDg3/NC5wbmc" width="60" alt="Trello logo"/><br>
       <b>Trello</b>
     </td>
     <td align="center" width="150">
-      Actualmente no existe<br>
+      <img src="https://imgs.search.brave.com/iFnXWJqFRDWO5zkiXqUHiC2bbfyIEZAz-UPnoWjytKw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9lZGVh/Lmp1bnRhZGVhbmRh/bHVjaWEuZXMvYmFu/Y29yZWN1cnNvcy9m/aWxlLzc5YmQxNDNh/LTc0MWYtNDUzMy1i/NTFjLTQ4YzExYmJm/OThjOC8xL1RDMV9V/Nl9UYXJlYV8yMzI0/XzAxX3YwMS56aXAv/bG9nby1oZWFkZXIu/cG5n" width="60" alt="PSeInt logo"/><br>
       <b>PSeInt</b>
     </td>
   </tr>
 </table>
+
 
 ---
 
