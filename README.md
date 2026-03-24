@@ -10,7 +10,7 @@
 
 ## 🧑‍💻 Sobre mí
 
-- Estudiando **1º DAM (repetidor)** y asistiendo principalmente a la asignatura de *Programación*.  
+- Estudiando **1º DAM** y asistiendo principalmente a la asignatura de *Programación*.  
 - Graduado en **SMR (2022–2024)** con una nota media de **9,10**.  
 - Experiencia en prácticas reales en WordPress.  
 - Me encanta aprender mediante proyectos reales y mejorar cada día.  
