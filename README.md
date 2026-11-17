@@ -17,14 +17,7 @@
 ## 🌸 Sobre mí
 
 <p align="center">
-  <img src="./chaval-tecleando.gif" width="80%" alt="programando" />
-</p>
-
-<p align="center">
-  <b>Hola, soy Zaid</b> 👋<br>
-  🎓 Estudiante de <b>DAM</b> · ☕ Java · Kotlin · Python<br>
-  🏯 Fundador de <b>Zaid Smart</b> · 🍥 Anime y ⚽ fútbol<br>
-  <sub><i>Convierto ideas en apps reales.</i></sub>
+  <img src="./sobre-mi.svg?v=2" width="100%" alt="Hola, soy Zaid" />
 </p>
 
 ## ⚔️ Arsenal
