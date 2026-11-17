@@ -30,6 +30,10 @@
 </p>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Diaz003/Diaz003/output/serpiente.svg" width="100%" alt="Serpiente de contribuciones" />
+</p>
+
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=800&color=FF8FD0&center=true&vCenter=true&width=520&height=36&lines=Convirtiendo+caf%C3%A9+en+c%C3%B3digo+%E2%98%95;Construyendo+apps+de+verdad+%F0%9F%9A%80;Modo+otaku%3A+ON+%F0%9F%8D%A5" alt="typing" /><br>
   <img src="https://komarev.com/ghpvc/?username=Diaz003&label=VISITAS&color=ff5fa2&style=for-the-badge" />
   <img src="https://img.shields.io/badge/ESTADO-PROGRAMANDO-ff5fa2?style=for-the-badge" />
