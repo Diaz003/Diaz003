@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner-pixel.svg" width="100%" alt="Zaid banner" />
+  <img src="banner-pixel.svg" width="100%" alt="Zaid banner" />
 </p>
 
 <p align="center">
